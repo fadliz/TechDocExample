@@ -2,6 +2,8 @@ site_name: 'doc-example-site'
 site_description: 'An example of doc site with multiple nav links'
 
 nav:
+  - Test Docs :
+    - Testing: tes-doc/test-incr.md
   - Introduction: index.md
   - Getting Started: getting-started.md
   - API Reference: api-reference.md
